@@ -1,0 +1,23 @@
+portfolio style
+body{
+	background-color: #767879;
+		font-family: LibreBaskerville;
+		font-size: 18px;
+		line-height: 1;
+		font-weight: lighter;
+		color: rgb(50, 50, 50);
+		font-style: italic;
+}
+div{                      
+	background-image: url(portfolio/1.png" class="page" alt="Page 1)
+	padding: 30px;                             
+	border-radius: 30px;                        
+	box-shadow: 0 10px 30px rgba(255, 211, 105,.5);
+	width: 1100px;   
+	margin: 100 auto; 
+
+}
+img{
+	width: 1100px;
+	border-radius: 30px
+}
